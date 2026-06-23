@@ -6,7 +6,7 @@ import { getFirestore } from "firebase/firestore"
 import { getAuth } from "firebase/auth"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAFvf_VELT06D0SdLGq7T_ke-96hBW3vzE",
+  apiKey: "api_key",
 
   authDomain: "smart-finance-app-sr.firebaseapp.com",
 
